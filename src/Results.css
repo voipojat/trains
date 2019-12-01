@@ -1,0 +1,13 @@
+.answer {
+    text-align: center;
+}
+
+.answer div {
+    display: inline-block;
+    margin: 3px;
+    padding: 15px;
+}
+
+#station {
+    font-weight: bold;
+}
