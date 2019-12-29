@@ -5,4 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <img src="./trainshot.png"></img>
 
 
-Live version: https://train-timetables.herokuapp.com/
+[Try live](https://train-timetables.herokuapp.com/)
